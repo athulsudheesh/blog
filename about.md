@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Title alt <>](/assets/img/neurodp.png){:width="100px"}  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I read, think and write.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a Cognitive Neuroscientist specialized in Computational Modeling, who is on a never-ending journey to understand the human mind. Before changing career, I was an electronics engineer and was the founder and CEO of Dionz Electronics, a consumer electronics startup in India. In my years both as a cognitive scientist and electronics engineer I was lucky enough to host many successful projects and much more unsuccessful projects.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Besides writing I also enjoy [photography](https://www.instagram.com/athulsudheesh/) and is on a serious attempt to learn guitar.
