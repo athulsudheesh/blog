@@ -4,8 +4,6 @@ title: "Creating Content That Matters"
 permalink: /deepwork-rules-for-success
 ---
 
-![Title alt <>](/assets/img/PhDComics1.jpg){:width="600px"}
-
 Great writers write everyday, great coders code everyday, great musicians compose every day, great artists paint everyday. It’s no surprise that all this greatness comes with a cost – the willingness to sacrifice the trivial matters in life. Even if we have got the willpower to do it we find ourselves falling back into the vicious loop of mediocrity. From high school physics we all have studied that all objects tend to remain in its state of stable equilibrium, the state which requires the minimum amount of energy, and for us humans this state of stable equilibrium is being mediocre, to follow the crowd.  
 
 But the ambitious ones aim for the nonconformity and search for the tools to get there. We live in an internet age where everyone from a 5 year old kid to the retired scientist seek the help from Google for each and every question that pops in their head. And Google gets us a ranked list of websites it believes is great in content, but the truth in most cases are, at least for these ambitious people, these are nothing other than some naive advices from a higher level mediocrity group who are devious bloggers/content creators who trick the search engine algorithms. These advices might work for someone who is only trying to reach this higher level of mediocrity but not the ones who are looking for a intense quality works on which they can reflect upon.
