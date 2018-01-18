@@ -2,7 +2,6 @@
 layout: post
 title: "The Badass Scientist"
 permalink: /Einstein-his-life-and-Universe
-description: "Book Review of Einstein"
 ---
 When I picked up the title ‘Einstein: His Life and Universe’, a 700 page biography by Walter Isaacson, I knew it was not going to be an easy weekend read. And yes it took me more than a week to finish it. The last time I read a Walter Isaacson book was when I came across the very famous biography of Steve Jobs.
 
