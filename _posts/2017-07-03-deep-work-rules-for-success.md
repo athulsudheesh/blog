@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Content That Matters"
-permalink: /deepwork-rules-for-success 
+permalink: /deepwork-rules-for-success
 ---
 
 ![Title alt <>](/assets/img/PhDComics1.jpg){:width="600px"}
