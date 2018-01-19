@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Blog of Athul Sudheesh.
   Athul Sudheesh is a computational neuroscientist, engineer, and writer.
 
-  social_sites:
+social_sites:
   twitter: AthulSudheesh
   github:  athulsudheesh
   #dribbble: jekyll
