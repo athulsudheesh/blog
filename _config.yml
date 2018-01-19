@@ -1,31 +1,27 @@
 title: athulinks
 author: Athul Sudheesh
-email: firstname0708(at)gmail
 description: > # this means to ignore newlines until "baseurl:"
   Blog of Athul Sudheesh
-url: "http://athulinks.com"
 social_sites:
   twitter: AthulSudheesh
   github:  athulsudheesh
   #dribbble: jekyll
-  #facebook: jekyll
+  #facebook:
   #flickr: jekyll
   #instagram: jekyll
   #linkedin: jekyll
   #pinterest: jekyll
   #youtube: jekyll
   #googleplus: +jekyll
-
 rss: rss
-
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: athulinks
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+#minima:
+  #date_format: "%b %-d, %Y"
 
 plugins:
   - jekyll-seo-tag
