@@ -51,6 +51,7 @@ defaults:
       layout: "category"
 
 markdown: kramdown
+google_analytics: UA-112766072-1
 theme: minima
 exclude:
   - Gemfile
