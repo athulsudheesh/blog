@@ -1,10 +1,10 @@
 title: athulinks
 author: Athul Sudheesh
 description: > # this means to ignore newlines until "baseurl:"
-  Blog of Athul Sudheesh
-  Athul Sudheesh is a Cognitive Neuroscienitst, specialized in Computational Modelling,
-   interested in Brain Computer Interfaces and the philosophy of the mind.
-social_sites:
+  Blog of Athul Sudheesh.
+  Athul Sudheesh is a computational neuroscientist, engineer, and writer.
+
+  social_sites:
   twitter: AthulSudheesh
   github:  athulsudheesh
   #dribbble: jekyll
