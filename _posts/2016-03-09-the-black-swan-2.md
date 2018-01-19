@@ -2,6 +2,7 @@
 layout: post
 title: "The Unknown Unknown"
 permalink: /the-black-swan
+categories: BookReviews
 ---
 The Black Swan by Nassim Nicholas Taleb was one of those books I had been longing to read, after being recommended by one of my teachers. And hence, it was after I ordered the book that I looked for its reviews. It seemed like Nicholas Taleb completely failed to delight the reviewers and critics. Most reviewers called it ‘bloated’ ‘uneven’and a ‘waste of time’. While it may be true that the book could have been trimmed a little bit, I don’t think it was ever a waste of time.
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Creating Content That Matters"
 permalink: /deepwork-rules-for-success
+categories: BookReviews
 ---
 
 Great writers write everyday, great coders code everyday, great musicians compose every day, great artists paint everyday. It’s no surprise that all this greatness comes with a cost – the willingness to sacrifice the trivial matters in life. Even if we have got the willpower to do it we find ourselves falling back into the vicious loop of mediocrity. From high school physics we all have studied that all objects tend to remain in its state of stable equilibrium, the state which requires the minimum amount of energy, and for us humans this state of stable equilibrium is being mediocre, to follow the crowd.  

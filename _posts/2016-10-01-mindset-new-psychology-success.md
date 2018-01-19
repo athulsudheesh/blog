@@ -2,6 +2,7 @@
 layout: post
 title: "You Are What You Think"
 permalink: /mindset-new-psychology-of-success
+categories: BookReviews
 ---
 “Mindset: The New Psychology of Success” by *Carol Dweck* peeked into my reading list after being recommended by Bill gates in his blog, gatesnotes. Even from the initial chapters, I felt like the book was very much inspired from the books ‘Talent is Overrated’ and ‘Outliers’. Or it could just be my opinion as I have read both and the book at hand had so much overlapping ideas from the former ones
 

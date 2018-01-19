@@ -2,6 +2,7 @@
 layout: post
 title: "In Search of Meaning; Reflections on Life"
 permalink: /meditations-marcus-aurelius
+categories: BookReviews
 ---
 *In search of meaning is a series of blog posts intended at reviewing ancient philosophical textbooks.*
 
