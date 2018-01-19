@@ -51,6 +51,7 @@ defaults:
       layout: "category"
 
 markdown: kramdown
+syntax_highlighter: rouge
 google_analytics: UA-112766072-1
 theme: minima
 exclude:

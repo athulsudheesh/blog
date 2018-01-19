@@ -5,9 +5,10 @@ permalink: /about/
 ---
 
 ![Title alt <>](/assets/img/neurodp.png){:width="100px"}  
+<br>
 
-I read, think and write.
+Athul Sudheesh is a computational neuroscientist, engineer, and writer. He is currently working as a Research Assistant in The University of Texas at Dallas. Before changing career he was the CEO of Dionz Electronics, a consumer electronics startup he cofounded with his classmates from undergrad.
 
-I am a Cognitive Neuroscientist specialized in Computational Modeling who is on a never-ending journey to understand the human mind. Before changing career, I was an electronics engineer and was the founder and CEO of Dionz Electronics, a consumer electronics startup in India. In my years both as a cognitive scientist and electronics engineer I was lucky enough to host many successful projects and much more unsuccessful projects.
+In his professional life he has served in organizations such as IEEE, Google Business Group, Toastmasters International, and Kerala Startups Society.
 
-Besides writing I also enjoy [photography](https://www.instagram.com/athulsudheesh/) and is on a serious attempt to learn guitar.
+Besides writing he also enjoys [photography](https://www.instagram.com/athulsudheesh/).
