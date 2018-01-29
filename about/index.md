@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 ![Title alt <>](/images/bio-photo.png){:width="160px"}  
