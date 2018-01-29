@@ -3,6 +3,7 @@ layout: post
 title: "The Quarter Life: Notes to Self"
 permalink: /the-quarter-life
 tags: [Personal]
+excerpt: "Excerpts from the journal"
 ---
 
 Just another day in the long journey of growing up. While I was thinking what I should be doing on my 25th birthday, I was sure that I didn’t want to be partying which I never had a liking for. After giving a thought about it for a moment I realized that I should be doing what I love the most – writing, working and a little bit of music to spur things up, all in the world of my solitariness . I’m of course past the age where I should be cutting a cake and all those child stuffs and more to a point where I should be looking back at life and having a retrospect.

@@ -3,6 +3,7 @@ layout: post
 title: "Love,Time, and Death"
 permalink: /when-breath-becomes-air-paul-kalanithi
 tags: [Book Reviews]
+excerpt: "Book Review of When Breath Becomes Air"
 ---
 
 > “At the end of the day, every decision we make is because we long for love, wish we had more time, and we fear death”
